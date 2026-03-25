@@ -1,0 +1,1 @@
+{\n  "name": "custom-course-content",\n  "version": "1.0.0",\n  "main": "index.js",\n  "scripts": {\n    "start": "node index.js",\n    "build": "tsc"\n  },\n  "dependencies": {\n    "express": "^latest",\n    "mongodb": "^latest",\n    "react": "^latest"\n  },\n  "devDependencies": {\n    "typescript": "^latest"\n  }\n}
